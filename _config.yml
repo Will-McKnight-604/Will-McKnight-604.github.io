@@ -4,7 +4,7 @@
 title: Will McKnight Portfolio
 
 # Short description of your site
-description: And so on
+description: Creating a Portfolio as a website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "https://www.google.com/search?q=tiger+woods&rlz=1C1CHBF_en-GBCA742CA742&tbm=isch&source=iu&ictx=1&fir=b6zDfou5G_k9kM%253A%252C6RHKh6RR5-thLM%252C%252Fm%252F0bwdn&vet=1&usg=AI4_-kTEKTkf5iW2d3-cK64XCxxFKB8v2g&sa=X&ved=2ahUKEwi6z-LZyZfjAhVbJjQIHadwDawQ_B0wJ3oECAgQAw#imgrc=b6zDfou5G_k9kM:"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
