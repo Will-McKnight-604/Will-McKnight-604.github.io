@@ -25,6 +25,6 @@ These are the projects that I have done over the years:
 
 >More Information
 
-### [1969 Porche]9(#){name=1969-Porche}
+### [1969 Porche](#){name=1969-Porche}
 
 >More Information
