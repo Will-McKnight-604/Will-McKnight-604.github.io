@@ -25,6 +25,6 @@ These are the projects that I have done over the years:
 
 >More Information
 
-### [Maintaining my 1969 Porche]<a name="maintaining my 1969 porche"></a>
+### [Maintaining my 1969 Porche] <a name="maintaining my 1969 porche"></a>
 
 >More Information
