@@ -13,7 +13,7 @@ These are the projects that I have done over the years:
 
 
 
-### 2003 Mini Cooper S Electric Vehicle Conversion  <a name="Electric Vehicle Conversion"></a>
+### 2003 Mini Cooper S Electric Vehicle Conversion  <a name="electric vehicle conversion"></a>
 
 >This project began when I first saw Tesla showcasing the model S, at this point I was hooked as a Electric Vehicl'er (EV'er). At this point in the game, I did not know how an EV worked, so I first had to learn how it was differen't (but also where an electric vehicle drew similarties from - like the DCDC converter acting as an altenator) from an internal combustion engine vehicle. From there, seeing how an electic vehicle...
 
@@ -25,6 +25,6 @@ These are the projects that I have done over the years:
 
 >More Information
 
-### [Maintaining my 1969 Porche](#){name=1969-Porche}
+### [Maintaining my 1969 Porche]<a name="maintaining my 1969 porche"></a>
 
 >More Information
