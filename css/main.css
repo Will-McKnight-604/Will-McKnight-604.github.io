@@ -173,7 +173,7 @@ img {
   margin-top: -100px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
-  width: 100%;
+  width: 50%;
   border-radius: 50%;
   margin-left: -50%;
   display: inline-block;
