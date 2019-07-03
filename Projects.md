@@ -9,7 +9,7 @@ These are the projects that I have done over the years:
 1. [Electric Vehicle Conversion](#2003-Mini-Cooper-S-Electric-Vehicle-Conversion)
 2. [480W DC-DC Converter Build](#480W-2-Switch-Forward-Converter)
 3. [Formula SAE Electric Thermal Sensing](#Thermistor-Expansion-PCB)
-4. [Maintaining my 1969 Porche](#1969-Porche)
+4. [1969 Porche](#1969-porche)
 
 
 
@@ -30,6 +30,6 @@ These are the projects that I have done over the years:
 
 >More Information
 
-### [Maintaining my 1969 Porche] <a name="maintaining my 1969 porche"></a>
+### [1969 Porche] <a name="maintaining my 1969 porche"></a>
 
 >More Information
