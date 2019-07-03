@@ -6,9 +6,9 @@ subtitle: Projects that I have done
 
 These are the projects that I have done over the years:
 ## Table Of Contents
-1. [Link to Header](#2003-Mini-Cooper-S-Electric-Vehicle-Conversion)
-2. [Link to Header](#480W-2-Switch-Forward-Converter)
-3. [Link to Header](#Thermistor-Expansion-PCB)
+1. [Electric Vehicle Conversion](#2003-Mini-Cooper-S-Electric-Vehicle-Conversion)
+2. [480W DC-DC Converter Build](#480W-2-Switch-Forward-Converter)
+3. [Formula SAE Electric Thermal Sensing](#Thermistor-Expansion-PCB)
 
 
 ### 2003 Mini Cooper S Electric Vehicle Conversion
