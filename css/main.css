@@ -195,6 +195,7 @@ img {
   .navbar-custom .avatar-container {
     width: 100px;
     margin-top: -50px;
+    bigimg: /img/path.jpg;
   }
 
   .navbar-custom .avatar-container  .avatar-img-border {
