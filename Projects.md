@@ -5,7 +5,7 @@ subtitle: Projects that I have done
 ---
 
 These are the projects that I have done over the years:
-## Table Of Contents
+# Table Of Contents
 1. [Electric Vehicle Conversion](#2003-Mini-Cooper-S-Electric-Vehicle-Conversion)
 2. [480W DC-DC Converter Build](#480W-2-Switch-Forward-Converter)
 3. [Formula SAE Electric Thermal Sensing](#Thermistor-Expansion-PCB)
@@ -25,6 +25,6 @@ These are the projects that I have done over the years:
 
 >More Information
 
-### [1969 Porche](#){name=1969-Porche}
+### [Maintaining my 1969 Porche](#){name=1969-Porche}
 
 >More Information
